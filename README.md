@@ -2,7 +2,7 @@
 
 |Labs    |  
 |:------:|
-|[HW01](HW2_Linear_regression/README.md)|
-|[HW02](HW3_Linear_and_LogisticRegression/README.md)|
-|[HW03](HW4_Decision_Trees/README.md)|
-|[HW04](HW5_SVM/README.md)|
+|[HW01](HW1/README.md)|
+|[HW02](HW2/README.md)|
+|[HW03](HW3/README.md)|
+|[HW04](HW4/README.md)|
