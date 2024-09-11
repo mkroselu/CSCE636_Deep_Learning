@@ -1,3 +1,3 @@
-# CSCE636_Deep_Learning
+# CSCE636_Deep_Learning HW1 
 
-Learning in progress. Will be updated shortly. 
+See HW1.pdf for coding task descriptions. 
